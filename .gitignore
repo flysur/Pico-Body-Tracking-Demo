@@ -71,3 +71,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/Resources/PXR_SDKSettingAsset.asset
+/Assets/Samples
+/Packages
+/Assets/AddressableAssetsData
